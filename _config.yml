@@ -2,16 +2,16 @@
 title: Shea Rogers
 subtitle: Lead DevOps Engineer
 email: shearogers@thinkforge.io
-description: A portfolio and a blog about DevOps, software development, and other random topics.
-baseurl: "/" # the subpath of your site, e.g. /blog
+description: I work to support Engineering, Operations, and Cyber Security teams in building clean and well architected infrastructure.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://portfolio.thinkforge.io
 author: Shea Rogers
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address:
+city: North Charleston
+state: SC
+zip_code: 29405
 country: United States of America
-phone: (716) 555-5555
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,14 +20,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/SheaRogers
+gitlab_url: 
+googleplus_url: 
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/sheavrogers/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
 markdown: kramdown
