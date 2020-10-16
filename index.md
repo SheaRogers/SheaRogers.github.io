@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hello, my name is Shea Rogers'
+landing-title: 'Hello, my name is <b class="name-color">Shea Rogers</b>'
 description: null
 image: null
 author: null

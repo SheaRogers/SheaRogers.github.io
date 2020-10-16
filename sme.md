@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Elements
+title: What I can do for you
+description: A breakdown of the services I can provide
+image: assets/images/sme.jpg
 nav-menu: true
 ---
 

@@ -28,6 +28,16 @@
 			}
 		}
 	}
+	
+	.icon-svg {
+		display: inline-flex;
+		align-self: center;
+		height:1em;
+		width:1em;
+		top: .125em;
+		position: relative;
+		left: -.125em;
+	}
 
 	a.icon {
 		&.alt {

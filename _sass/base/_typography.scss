@@ -51,6 +51,10 @@
 		font-weight: _font(weight-bold);
 	}
 
+	.name-color {
+		color: _palette(highlight) !important;
+	}
+
 	em, i {
 		font-style: italic;
 	}
